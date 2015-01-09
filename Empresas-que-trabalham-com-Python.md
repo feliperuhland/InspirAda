@@ -18,6 +18,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Atepassar
 - AvelinoLabs
 - Avenue Developer
+- Axado
 - Azion Technologies
 - B2Blue
 - Bambae
